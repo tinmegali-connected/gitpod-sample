@@ -1,3 +1,4 @@
-FROM gitpod/workspace-full
+FROM gitpod/workspace-mysql
 
 # add your tools here ...
+git l
